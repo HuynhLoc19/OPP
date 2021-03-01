@@ -280,7 +280,5 @@ int main()
 	XEMAY ds_may[10];
 	int n = 0;
 	menu(ds_dap, m, ds_may, n);
-	cout<<"\nHuan Hoa Hong co lam tho moi co an."<<endl;
-	cout<<"\n Khong lam ma doi co an thi an dau bua, an cam."<<endl;
 	return 0;
 }
