@@ -1,0 +1,6 @@
+﻿  Loai.cpp
+D:\OPP with C++\OPP\QuanLy_XeDap\Loai.cpp(44,24): warning C4244: 'return': conversion from 'size_t' to 'float', possible loss of data
+D:\OPP with C++\OPP\QuanLy_XeDap\Loai.cpp(87,26): warning C4244: 'return': conversion from 'size_t' to 'float', possible loss of data
+D:\OPP with C++\OPP\QuanLy_XeDap\Loai.cpp(91,26): warning C4244: 'return': conversion from 'size_t' to 'float', possible loss of data
+D:\OPP with C++\OPP\QuanLy_XeDap\Loai.cpp(258,33): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  QuanLy_XeDap.vcxproj -> D:\OPP with C++\OPP\Debug\QuanLy_XeDap.exe
